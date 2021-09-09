@@ -1,17 +1,22 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [What is LLDEX?](README.md)
+* [Background](background.md)
 * [Coups](coups.md)
-* [Market Makers](market-makers.md)
-* [Untitled](untitled.md)
+* [What is LLDEX?](what-is-lldex.md)
 
 ## Smart Contract
 
 * [LLDEX smart contract](smart-contract/lldex-smart-contract.md)
 * [Untitled](smart-contract/untitled.md)
 
-## Front-end
+## Getting Started
 
-* [Market Maker](front-end/market-maker.md)
+* [Overview](getting-started/overview.md)
+
+## Trading Workflow <a id="front-end"></a>
+
+* [Untitled](front-end/untitled.md)
 * [Market Taker](front-end/market-taker.md)
+* [Market Maker](front-end/market-maker.md)
 
