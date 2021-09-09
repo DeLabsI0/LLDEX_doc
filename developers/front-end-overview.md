@@ -1,9 +1,5 @@
 # Front-end Overview
 
-
-
-
-
 ### 👨‍🌾 Market Taker Front-end
 
 Market Taker typescript example can be found on:
