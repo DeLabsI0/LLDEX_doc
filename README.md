@@ -12,9 +12,15 @@ The protocol can be used by two counterparties that would like to trade with eac
 2. Market Taker is sending execution request to Market Maker
 3. Maker Maker is approving the trade request and sending trade to the blockchain for trade settlement
 
+To allow **low latency** execution workflow between 2 parties without compromising security, we implemented an additional key set on the market taker and on the market maker side. Information about keys used for low latency workflows is saved on the blockchain.
+
 ### 🤝 Market Maker
 
+Rates streamed by Market Maker do not commit the Market Maker to confirm particular execution. It is up to the Market Maker to decide if the transaction can be sent to the blockchain. 
 
+Designed workflow is allowing for risk-free position auto-hedging. If the hedge trade would not be possible at the given price, Market Maker can reject the execution request.
+
+Market Maker should take care of the latency between the server that is streaming the price and the end client. Market Maker have full control over reputation 
 
 Market Maker is streaming prices to Market Taker. After getting execution request from Market Taker, Market Maker is able to reject the trade if the price is no longer valid.
 
@@ -48,5 +54,16 @@ Liquidators are able to earn a premium bounty reward for monitoring and liquidat
 
 
 
-To allow low latency execution workflow between 2 parties without compromising security, we implemented an additional key set on the market taker and on the market maker side.
+
+
+## Stay Connected
+
+Connect with us on social media to stay up to date with all our 
+
+* Medium
+* Discord
+* Twitter
+* Telegram \(community\) \(announcements\)
+
+
 
