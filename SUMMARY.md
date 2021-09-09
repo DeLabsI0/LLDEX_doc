@@ -8,6 +8,7 @@
 ## For Developers <a id="developers"></a>
 
 * [Protocol Overview](developers/lldex-smart-contract.md)
+* [Front-end Overview](developers/front-end-overview.md)
 * [Deployed Contracts](developers/deployed-contracts.md)
 
 ## Getting Started
