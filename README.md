@@ -26,27 +26,21 @@ Market Maker should take care of the latency between the server that is streamin
 
 Market Taker is getting current prices from Market Maker. Market Taker is sending execution request to the Market Maker. 
 
-To achieve low latency execution, Market Taker has a special key set stored in the browser. 
+To achieve low latency execution, Market Taker has a special key stored in the browser. Information about the current key is stored on the blockchain. Each key has validity time. The concept is taken from a regular authorization standard used by companies like Amazon, Google, Facebook.
 
-Execution request is a data structure created off-chain \(ex. in the browser\) and signed according to [EIP-712](https://eips.ethereum.org/EIPS/eip-712). 
+Execution request is a data structure created off-chain \(ex. in the browser\) and signed according to [EIP-712](https://eips.ethereum.org/EIPS/eip-712) by the session key.
 
+## Why we built Beta Finance
 
+Shorting is a counter balancing force to price volatility and critical piece of financial infrastructure missing in DeFi. Rather than allow volatility to persist as the norm and depend on liquidation cascades for price corrections, we wanted to enable DeFi users to have the ability to act as an opposing force to price volatility by providing an simple and seamless experience to short assets. 
 
-Lenders are able to now earn risk-free yield \(as high as 1000+%\) on not only popular assets, but also the long tail of crypto assets, including yield farmed tokens, that exist today! Easily deposit your tokens on Beta into the token's money market, or create it yourself if it's not there yet.
+Additionally, currently &gt;99% of actively traded crypto assets are neglected by popular money market protocols, leaving these token holders with few or no options to earn additional yield on their tokens. As DeFi grows larger and larger, we wanted a money market protocol that could scale with it, where users were able to create money markets immediately. 
 
-### 
+## 
 
-### 📈 Traders
+## Project mission and vision
 
-Traders are able to short sell any crypto asset by using their ETH and/or Stablecoin as collateral. Beta provides an integrated "1-Click" Short that makes initiating and managing short positions simple.
-
-### 🧨 Liquidators
-
-Liquidators are able to earn a premium bounty reward for monitoring and liquidating under-collateralized positions.
-
-
-
-
+Our mission is to offset the volatility in DeFi today by developing critical infrastructure and user tooling to facilitate market efficiency. We stand by the DeFi ethos of "Open Finance For All" and seek to re-define finance by providing a foundational block in DeFi that future projects will be built upon.
 
 
 

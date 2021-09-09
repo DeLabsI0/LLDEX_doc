@@ -1,7 +1,6 @@
 # Table of contents
 
 * [What is LLDEX?](README.md)
-* [Background](background.md)
 * [Coups](coups.md)
 
 ## For Developers <a id="developers"></a>
@@ -19,4 +18,9 @@
 * [Untitled](front-end/untitled.md)
 * [Market Taker](front-end/market-taker.md)
 * [Market Maker](front-end/market-maker.md)
+
+## Resources
+
+* [Background](resources/background.md)
+* [FAQ](resources/faq.md)
 
