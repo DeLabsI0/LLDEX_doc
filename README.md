@@ -2,33 +2,20 @@
 
 ## Low Latency DEX Protocol
 
-Low Latency DEX is Wallet2Wallet permissionless Protocol to settle crypto trades between 2 counterparties. It allows users to agree on the price off-chain in a low latency environment and settle the trade on-chain.
+Low Latency DEX is Wallet2Wallet permissionless protocol to settle crypto trades between 2 counterparties. It allows users to agree on the price off-chain in a low latency environment and settle the trade on-chain.
 
-
-
-
-
-
-
-
-
-Thanks to this pattern a front-end that would help
-
-
-
-money market for borrowing, lending, and shorting crypto assets. This means that anyone at anytime is able to create a money market for any crypto asset.
-
-A 1inch [limit order](https://help.1inch.exchange/en/articles/4585134-what-is-a-limit-order) is an order placed into a centralized 1inch database through the 1inch UI. 
-
-
+The protocol can be used by two counterparties that would like to trade with each other and settle trades on-chain. 
 
 While creating a limit order, you may set a specific price target and terms of the trade. These types of orders are not sent to any one specific user; they can be filled by anyone, including the [1inch Aggregation Protocol](https://help.1inch.io/en/articles/4585093-what-is-1inch).  
 
 
 ### 🤝 General workflow
 
-1. Market Maker are streaming prices to Market Taker
-2. Market Taker 
+1. Market Maker is streaming prices to Market Taker
+2. Market Taker is sending execution request to Market Maker
+3. Maker Maker is approving the trade request and sending trade to the blockchain for trade settlement
+
+Market 
 
 
 
