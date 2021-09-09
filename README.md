@@ -20,21 +20,17 @@ Rates streamed by Market Maker do not commit the Market Maker to confirm particu
 
 Designed workflow is allowing for risk-free position auto-hedging. If the hedge trade would not be possible at the given price, Market Maker can reject the execution request.
 
-Market Maker should take care of the latency between the server that is streaming the price and the end client. Market Maker have full control over reputation 
-
-Market Maker is streaming prices to Market Taker. After getting execution request from Market Taker, Market Maker is able to reject the trade if the price is no longer valid.
-
-They are getting Execution 
-
-Pricing is indicative that Market Makers is able to 
-
-Borrowers are able to borrow crypto assets by supplying ETH and/or Stablecoin as collateral. This gives users flexibility when interacting with other protocols that requires using assets they currently do not have without losing their current positions.
+Market Maker should take care of the latency between the server that is streaming the price and the end client. Market Maker has full control over its reputation. Constant trade rejections will cause reputation damage.
 
 ### 👨‍🌾 Market Takers
 
+Market Taker is getting current prices from Market Maker. Market Taker is sending execution request to the Market Maker. 
+
+To achieve low latency execution, Market Taker has a special key set stored in the browser. 
+
+Execution request is a data structure created off-chain \(ex. in the browser\) and signed according to [EIP-712](https://eips.ethereum.org/EIPS/eip-712). 
 
 
-Market Taker order is a data structure created off-chain and signed according to [EIP-712](https://eips.ethereum.org/EIPS/eip-712).
 
 Lenders are able to now earn risk-free yield \(as high as 1000+%\) on not only popular assets, but also the long tail of crypto assets, including yield farmed tokens, that exist today! Easily deposit your tokens on Beta into the token's money market, or create it yourself if it's not there yet.
 
