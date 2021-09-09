@@ -5,10 +5,10 @@
 * [Coups](coups.md)
 * [What is LLDEX?](what-is-lldex.md)
 
-## Smart Contract
+## For Developers <a id="developers"></a>
 
-* [LLDEX smart contract](smart-contract/lldex-smart-contract.md)
-* [Untitled](smart-contract/untitled.md)
+* [Protocol Overview](developers/lldex-smart-contract.md)
+* [Deployed Contracts](developers/deployed-contracts.md)
 
 ## Getting Started
 
