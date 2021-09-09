@@ -6,19 +6,15 @@ Low Latency DEX is Wallet2Wallet permissionless protocol to settle crypto trades
 
 The protocol can be used by two counterparties that would like to trade with each other and settle trades on-chain. 
 
-
-
 ### 🤝 General workflow
 
 1. Market Maker is streaming prices to Market Taker
 2. Market Taker is sending execution request to Market Maker
 3. Maker Maker is approving the trade request and sending trade to the blockchain for trade settlement
 
-Market 
-
-
-
 ### 🤝 Market Maker
+
+
 
 Market Maker is streaming prices to Market Taker. After getting execution request from Market Taker, Market Maker is able to reject the trade if the price is no longer valid.
 
