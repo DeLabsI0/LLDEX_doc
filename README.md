@@ -36,7 +36,7 @@ Execution request is a data structure created off-chain \(ex. in the browser\) a
 
 Most of the Crypto volumes are one on specialized Centralized Regulated Exchanges \(CEX\) like Binance, Hobi, Coinbase, FTX and [others](https://coinmarketcap.com/rankings/exchanges/). This is in contradiction with the main idea behind cryptocurrencies: DECENTRALIZATION.
 
-Decentralized Exchanges \(DEX\) are now trying very hard to change it, but they are still a long way behind CEX. To help bring more Crypto volume that settles directly on-chain, we decided to copy the last-look workflow from OTC market and create LLDEX concept.
+[Decentralized Exchanges](https://coinmarketcap.com/rankings/exchanges/dex/) \(DEX\) are now trying very hard to change it, but they are still a long way behind CEX. To help bring more Crypto volume that settles directly on-chain, we decided to copy the last-look workflow from OTC market and create LLDEX concept.
 
 We hope that our work will be used by single market makers that will be able to offer its liquidity on-chain. The other use of this concept would be by multi-market maker platforms that would aggregate and manage the reputation of market makers.
 
