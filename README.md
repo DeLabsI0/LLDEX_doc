@@ -6,7 +6,6 @@ Low Latency DEX is Wallet2Wallet permissionless protocol to settle crypto trades
 
 The protocol can be used by two counterparties that would like to trade with each other and settle trades on-chain. 
 
-While creating a limit order, you may set a specific price target and terms of the trade. These types of orders are not sent to any one specific user; they can be filled by anyone, including the [1inch Aggregation Protocol](https://help.1inch.io/en/articles/4585093-what-is-1inch).  
 
 
 ### 🤝 General workflow

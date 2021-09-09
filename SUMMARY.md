@@ -3,7 +3,6 @@
 * [What is LLDEX?](README.md)
 * [Background](background.md)
 * [Coups](coups.md)
-* [What is LLDEX?](what-is-lldex.md)
 
 ## For Developers <a id="developers"></a>
 
