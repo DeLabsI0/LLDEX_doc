@@ -30,21 +30,13 @@ To achieve low latency execution, Market Taker has a special key stored in the b
 
 Execution request is a data structure created off-chain \(ex. in the browser\) and signed according to [EIP-712](https://eips.ethereum.org/EIPS/eip-712) by the session key.
 
-## Why we built Beta Finance
+## Why we built Low Latency DEX Protocol
 
-Shorting is a counter balancing force to price volatility and critical piece of financial infrastructure missing in DeFi. Rather than allow volatility to persist as the norm and depend on liquidation cascades for price corrections, we wanted to enable DeFi users to have the ability to act as an opposing force to price volatility by providing an simple and seamless experience to short assets. 
+Most of the Crypto volumes are one on specialized Centralized Regulated Exchanges \(CEX\) like Binance, Hobi, Coinbase, FTX and [others](https://coinmarketcap.com/rankings/exchanges/). This is in contradiction with the main idea behind cryptocurrencies: DECENTRALIZATION.
 
-Additionally, currently &gt;99% of actively traded crypto assets are neglected by popular money market protocols, leaving these token holders with few or no options to earn additional yield on their tokens. As DeFi grows larger and larger, we wanted a money market protocol that could scale with it, where users were able to create money markets immediately. 
+Decentralized Exchanges \(DEX\) are not trying very hard to change it, but still they are a long way behind CEX. To help bring more Crypto volume that settles directly on-chain, we decided to copy the last-look workflow from OTC market.
 
-## 
-
-## Project mission and vision
-
-Our mission is to offset the volatility in DeFi today by developing critical infrastructure and user tooling to facilitate market efficiency. We stand by the DeFi ethos of "Open Finance For All" and seek to re-define finance by providing a foundational block in DeFi that future projects will be built upon.
-
-
-
-
+We hope that our work will be used by single market makers that will be able to offer its liquidity on-chain. The other use of this concept would be by multi-market maker platforms that would aggregate and manage the reputation of market makers.
 
 ## Stay Connected
 
