@@ -9,14 +9,10 @@
 ---
 
 * [Overview](untitled.md)
-* [Market Taker](market-taker.md)
-* [Market Maker](market-maker.md)
-
-## For Developers <a id="developers"></a>
-
-* [Protocol Overview](developers/lldex-smart-contract.md)
-* [Front-end Overview](developers/front-end-overview.md)
-* [Deployed Contracts](developers/deployed-contracts.md)
+* [Protocol Overview](lldex-smart-contract.md)
+* [Deployed Contracts](deployed-contracts.md)
+* [Market Taker Example](market-taker.md)
+* [Market Maker Example](market-maker.md)
 
 ## Resources
 
