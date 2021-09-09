@@ -38,7 +38,7 @@ Most of the Crypto volumes are one on specialized Centralized Regulated Exchange
 
 [Decentralized Exchanges](https://coinmarketcap.com/rankings/exchanges/dex/) \(DEX\) are now trying very hard to change it, but they are still a long way behind CEX. To help bring more Crypto volume that settles directly on-chain, we decided to copy the last-look workflow from OTC market and create LLDEX concept.
 
-We hope that our work will be used by single market makers that will be able to offer its liquidity on-chain. The other use of this concept would be by multi-market maker platforms that would aggregate and manage the reputation of market makers.
+We hope that our work will be used by single market makers that will be able to offer its liquidity on-chain. The other use of this concept would be multi-market maker platforms that would aggregate, manage and provide tools for market makers as an alternative for providing liquidity on platforms like Uniswap/PancakeSwap/SushiSwap etc.
 
 ## Stay Connected
 
