@@ -9,16 +9,16 @@ It allows counterparties to agree on the price off-chain in a low latency enviro
 ### 🤝 General workflow
 
 1. Market Maker is streaming prices to Market Taker
-2. Market Taker is sending execution request to Market Maker
+2. Market Taker is sending Execution Request to Market Maker
 3. Maker Maker is sending trade to the blockchain for trade settlement
 
 To allow **low latency** execution workflow between 2 parties without compromising security, we implemented an additional key set on the market taker and on the market maker side. Information about keys used for low latency workflows is saved on the blockchain.
 
 ### 🤝 Market Maker
 
-Rates streamed by Market Maker do not commit the Market Maker to confirm particular execution. It is up to the Market Maker to decide if the execution request send by Market Taker can be sent to the blockchain for settlement. 
+Rates streamed by Market Maker do not commit the Market Maker to execute a particular quote \(this is not firm liquidity\). It is up to the Market Maker to decide if the Execution Request sent by Market Taker should be sent to the blockchain for settlement. 
 
-LLDEX workflow is allowing for risk-free position auto-hedging on any platform. Auto-hedging can be performed between receiving a trade request from the client and sending the transaction to the blockchain for settlement. If the hedge trade would not be possible at the given price, Market Maker can reject the execution request \(last-look\). Market Makers is paying gas for the trade. The cost associated with gas should be included in the price.
+LLDEX workflow is allowing for risk-free position auto-hedging on any platform. Auto-hedging can be performed between receiving an Execution Request from the client and sending the transaction to the blockchain for settlement. If the hedge trade would not be possible at the given price, Market Maker can reject the execution request \(last-look\). Market Makers is paying gas for the trade. The cost associated with gas should be included in the price. Price without gas cost can be shown in a separate field on the client screen \(particularly important in case of small trades on expensive networks like Etherum\).
 
 Market Maker should take care of the latency between the server that is streaming the price and the end client. Market Maker has full control over its reputation. Constant trade rejections will cause reputation damage.
 
