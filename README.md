@@ -2,9 +2,9 @@
 
 ## Low Latency DEX Protocol
 
-Low Latency DEX is Wallet2Wallet permissionless protocol to settle crypto trades between 2 counterparties. 
+Low Latency DEX is a permissionless protocol to settle crypto trades between 2 counterparties \(Wallet2Wallet trading\).
 
-It allows counterparties to agree on the price off-chain in a low latency environment and settle the trade on-chain.
+The framework allows counterparties to agree on the price off-chain in a low latency environment and settle the trade on-chain.
 
 ### 🤝 General workflow
 
