@@ -44,10 +44,10 @@ We hope that our work will be used by single market makers that will be able to 
 
 Who we are looking for:
 
-* Market Taker that would be willing to click on the real-time prices from hundreds if not thousands of market makers and settle trades on-chain.
-* Market Makers that are holding funds on and off-chain and would be willing to pass liquidity from Centralized Exchanges to on-chain Market Takes mentioned above with use of newly created tools
+* Market Takers that would be willing to trade using real-time prices from hundreds if not thousands of market makers and settle trades on-chain.
+* Market Makers that are holding funds on and off-chain and would be willing to pass liquidity from Centralized Exchanges to on-chain Market Takes with use of newly created tools
 * Professional Market Makers that would be willing to work with us on the creation of a dedicated Single Market Maker portal
-* DeFI experts that would be able to spread the concept across the industry
+* DeFI experts that would be able to spread the concept across the industryBac
 
 Connect with us on social media to stay up to date with all our 
 
