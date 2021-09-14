@@ -11,7 +11,7 @@
 * [Workflow Overview](untitled.md)
 * [Protocol Overview](lldex-smart-contract.md)
 * [Deployed Contracts](deployed-contracts.md)
-* [Market Taker Example](market-taker.md)
+* [Market Taker](market-taker.md)
 * [Market Maker Example](market-maker.md)
 
 ## Resources

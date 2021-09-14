@@ -1,4 +1,4 @@
-# Market Taker Example
+# Market Taker
 
 ### 👨‍🌾 Market Taker Front-end
 
@@ -11,6 +11,22 @@ For the signature of Execution requests, we recommend the use of [Utils library 
 ![](.gitbook/assets/image%20%282%29.png)
 
 
+
+
+
+
+
+![](.gitbook/assets/image%20%283%29.png)
+
+
+
+
+
+![](.gitbook/assets/image%20%285%29.png)
+
+
+
+![](.gitbook/assets/image%20%284%29.png)
 
 
 
