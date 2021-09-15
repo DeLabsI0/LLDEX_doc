@@ -8,6 +8,12 @@ Market Taker typescript example can be found on:
 
 For the signature of Execution requests, we recommend the use of [Utils library for 1inch Limit Orders Protocol](https://github.com/1inch/limit-order-protocol-utils)
 
+
+
+Front-end Examples
+
+[https://github.com/AdaptiveConsulting/ReactiveTraderCloud/blob/master/docs/reactive-trader.gif](https://github.com/AdaptiveConsulting/ReactiveTraderCloud/blob/master/docs/reactive-trader.gif)
+
 ![](.gitbook/assets/image%20%282%29.png)
 
 
