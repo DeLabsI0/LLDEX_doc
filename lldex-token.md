@@ -10,7 +10,7 @@ Referrers/software providers can set the value of the Referral Reward/Software l
 
 Market Maker should validate the number of LLDEX tokens needed to settle each individual execution request.
 
- There is no lockup period. There is no difference between 
+There is no lockup period. There is no difference between the balance of LLDEX tokens held by market makers/referrer and software providers. The role of a particular account is defined on a transaction level. The same account can be a market maker paying the fee to referrer or software provider during the settlement of one trade and might be getting LLDEX tokens as a referrer or software provider during the settlement of other trade. LLDEX tokens can be withdrawn from the contract at any given time.
 
 LLDEX token is designed for accounting between makers and referrers.
 
