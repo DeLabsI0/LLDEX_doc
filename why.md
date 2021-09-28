@@ -40,7 +40,7 @@ Smart contracts are also often used for market risk mitigation \(ex. MakerDAO\).
 
 #### Trading models:
 
-* Central Limit Order Book platform \(CLOB\)
+* Central Limit Order Book \(CLOB\)
 
 There is one central place that is matching orders. CLOB is offering so called firm liquidity, where active orders on CLOB server are matched/executed without optionality. Due to possibility of latency arbitrage between CLOB platforms, pricing engines of market makers are usually based in the same datacenter as CLOB servers and there is a constant fight between market participants to find the fastest route between different CLOB platforms with active market of the same/linked instrument. In case of crypto currencies almost all popular centralized exchanges like Binance, Coinbase, Huobi are using this execution model.
 
