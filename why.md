@@ -90,7 +90,7 @@ With LLDEX design we decided to:
 * give last look protection for market makers to allow risk-free liquidity brokerage \(pass liquidity from one place to the other and make immediate risk fee profit with every trade\)
 * democratize access to deep OTC liquidity thanks to a blockchain settlement process
 
-## LLDEX design
+## Summary of LLDEX design
 
 LLDEXProtocol implements a settlement layer for quotes send from market maker to market taker. Market makers are responsible for executing pre-signed execution requests send to market takers.
 
