@@ -20,11 +20,31 @@ Market Makers should be natural buyers for LLDEX tokens and referrers should be 
 
 Pending
 
+### Polygon \(Matic\) Mainnet
+
+Pending
+
 ### BSC Mainnet
 
 Pending
 
 ### Ethereum Mainnet
+
+Pending
+
+### Optimism Mainnet
+
+Pending
+
+### Arbitrum Mainnet
+
+Pending
+
+### Avalanche Mainnet
+
+Pending
+
+### Heco Mainnet
 
 Pending
 
@@ -34,7 +54,7 @@ Pending
 
 Pending
 
-### Poligon Testnet
+### Polygon \(Matic\) Testnet
 
 Pending
 
@@ -43,6 +63,22 @@ Pending
 Pending
 
 ### Ethereum Testnet
+
+Pending
+
+### Optimism Testnet
+
+Pending
+
+### Arbitrum Testnet
+
+Pending
+
+### Avalanche Testnet
+
+Pending
+
+### Heco Testnet
 
 Pending
 
