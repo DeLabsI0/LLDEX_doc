@@ -1,6 +1,8 @@
 # Market Maker
 
-### 
+Market Maker is quoting a price that is including Market Maker margin. In a separate field market maker can quote a fee related to the gas needed for settlement on a particular blockchain.
+
+A fee of the market maker should be included in the price quoted from the market maker to the market taker. 
 
 ### 🤝 Market Maker Front-end
 

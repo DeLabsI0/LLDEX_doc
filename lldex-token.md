@@ -1,7 +1,5 @@
 # LLDEX token
 
-A fee of the market maker should be included in the price quoted from the market maker to the market taker. 
-
 Smart Contract can hold LLDEX tokens that are used for the transfer of Referral Rewards/Software licenses fee from market makers to referrers/software providers when the transaction is submitted for settlement. 
 
 Execution requests coming from market takers might include the Referral Reward/Software license fee that would be transferred from the Referral Reward balance of the market maker to the Referral Reward balance of the referrer balances are held on LLDEX smart contract.
