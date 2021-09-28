@@ -2,7 +2,7 @@
 
 * [What is LLDEX?](README.md)
 * [Theoretical Background](why.md)
-* [Demo](demo.md)
+* [Quick Demo Video](demo.md)
 
 ## Getting Started
 
@@ -13,8 +13,6 @@
 * [Deployed Contracts](deployed-contracts.md)
 * [Market Taker](market-taker.md)
 * [Market Maker Example](market-maker.md)
-
-## White-paper
 
 ## Resources
 
