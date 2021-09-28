@@ -1,9 +1,8 @@
 # Table of contents
 
 * [What is LLDEX?](README.md)
-* [Untitled](untitled-1.md)
+* [Theoretical Background](why.md)
 * [Demo](demo.md)
-* [Coups](coups.md)
 
 ## Getting Started
 
@@ -16,8 +15,6 @@
 * [Market Maker Example](market-maker.md)
 
 ## White-paper
-
-* [Why?](white-paper/why.md)
 
 ## Resources
 
