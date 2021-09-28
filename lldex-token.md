@@ -12,6 +12,8 @@ There is no lockup period. There is no difference between the balance of LLDEX t
 
 LLDEX token is designed for accounting between makers and referrers.
 
+ **If** _**you**_ **buy LLDEX tokens,** _**you**_ **should be** _**prepared**_ **to** _**lose**_ **all your money**
+
 Market Makers should be natural buyers for LLDEX tokens and referrers should be natural sellers.
 
 ## LLDEX token on Mainnets
