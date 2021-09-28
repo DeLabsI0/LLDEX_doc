@@ -1,8 +1,8 @@
 # Table of contents
 
 * [What is LLDEX?](README.md)
-* [Theoretical Background](why.md)
 * [Quick Demo Video](demo.md)
+* [Theoretical Background](why.md)
 
 ## Getting Started
 
@@ -12,7 +12,7 @@
 * [Protocol Overview](lldex-smart-contract.md)
 * [Deployed Contracts](deployed-contracts.md)
 * [Market Taker](market-taker.md)
-* [Market Maker Example](market-maker.md)
+* [Market Maker](market-maker.md)
 
 ## Resources
 

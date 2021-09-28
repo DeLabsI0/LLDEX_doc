@@ -1,4 +1,4 @@
-# Market Maker Example
+# Market Maker
 
 ### 
 
