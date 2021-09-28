@@ -1,4 +1,4 @@
-# Quick Demo Video
+# Demo Video
 
 THIS IS PAGE FOR VIDEO DEMO
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is LLDEX?](README.md)
-* [Quick Demo Video](demo.md)
+* [Demo Video](demo.md)
 * [Theoretical Background](why.md)
 
 ## Getting Started
