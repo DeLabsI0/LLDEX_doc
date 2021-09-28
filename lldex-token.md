@@ -14,7 +14,7 @@ LLDEX token is designed for accounting between makers and referrers.
 
 Market Makers should be natural buyers for LLDEX tokens and referrers should be natural sellers.
 
- **If** _**you**_ **buy LLDEX tokens,** _**you**_ **should be** _**prepared**_ **to** _**lose**_ **all your money so convert into something tangible fast ;\)**
+**If** _**you**_ **buy LLDEX tokens,** _**you**_ **should be** _**prepared**_ **to** _**lose**_ **all your money so if you own it convert it into something tangible fast...**
 
 ## LLDEX token on Mainnets
 
