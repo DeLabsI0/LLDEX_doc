@@ -61,6 +61,7 @@ There is a common pattern of aggregators that are putting all prices from differ
 * Centralized Crypto exchanges are in most cases combining CLOB with settlement directly on accounts of a broker. Market risk and liquidations are managed by Centralized Crypto exchange.
 * Stock exchanges are in most cases combining CLOB with Central counterparty \(CCP\) clearing.
 * Decentralized exchanges are in most cases combining on-chain price discovery \(ex. Automated Market Maker or on-chain/side chain order book\) with on-chain settlement.
+* There is a emarging patern to implement CLOB on so called "layer 2" with in some cases is relatively similar to couple of servers that are replicating state between each other \(sorry for technical wording\)
 * OTC brokers are combining OTC trading with Last Look with Delivery Versus Payment settlement. This model is forcing end client to evaluate credit risk of individual broker.
 * LLDEX model is a unique combination of on-chain settlement that is mitigating settlement risk with low latency OTC off-chain price discovery based on quotes. In the latter stages we plan to use the same model for on-chain settled derivatives. We would like to combine OTC off-chain price discovery based on quotes for derivative products with on-chain mark-to-market/margin calls and final trade settlement.
 
