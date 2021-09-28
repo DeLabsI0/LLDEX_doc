@@ -15,6 +15,10 @@
 * [Market Taker](market-taker.md)
 * [Market Maker Example](market-maker.md)
 
+## White-paper
+
+* [Why?](white-paper/why.md)
+
 ## Resources
 
 * [Background](resources/background.md)
