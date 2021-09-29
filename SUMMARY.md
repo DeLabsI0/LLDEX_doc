@@ -11,9 +11,4 @@
 * [Deployed Contracts](getting-started/deployed-contracts.md)
 * [LLDEX token](getting-started/lldex-token.md)
 * [Front-end examples](getting-started/market-taker.md)
-* [Market Maker](getting-started/market-maker.md)
-
-## Resources
-
-* [About](resources/background.md)
 
