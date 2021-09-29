@@ -6,16 +6,9 @@
 
 ## Getting Started
 
----
-
-* [Workflow Overview](untitled.md)
-* [Protocol Overview](lldex-smart-contract.md)
-* [Deployed Contracts](deployed-contracts.md)
-* [LLDEX token](lldex-token.md)
-* [Market Taker](market-taker.md)
-* [Market Maker](market-maker.md)
-
-## Resources
-
-* [ARCH - Background](resources/background.md)
+* [Workflow Overview](getting-started/untitled.md)
+* [Protocol Overview](getting-started/lldex-smart-contract.md)
+* [Deployed Contracts](getting-started/deployed-contracts.md)
+* [LLDEX token](getting-started/lldex-token.md)
+* [Front-end examples](getting-started/market-taker.md)
 

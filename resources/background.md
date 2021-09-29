@@ -1,10 +1,12 @@
-# ARCH - Background
+# About
 
 Low Latency DEX
 
 This project is done as a Harmony Hacketon project: [https://gitcoin.co/hackathon/harmony-defi/projects/9385/low-latency-p2p-dex](https://gitcoin.co/hackathon/harmony-defi/projects/9385/low-latency-p2p-dex)
 
 GITBOOK LINK: [https://lldex.gitbook.io/lldex-doc/](https://lldex.gitbook.io/lldex-doc/)
+
+Check what we have done when: [https://github.com/DeLabsI0/LLDEX\_doc/tree/master](https://github.com/DeLabsI0/LLDEX_doc/tree/master)
 
 90% of trades on the interbank market are done between market makers and market takers that have some sort of relationship with each other. Order Book-style trading is relatively limited because there are very few market participants that know where the real market is in a particular millisecond. Market Makers aggregate feeds from multiple sources and offer prices to the end customers. Thank "last look" Market Makers are able to check if the market price that they quoted has not changed to much. During the last look Market Makers can auto-hedge flow before giving final confirmation to the end customer. Every big market taker has just 5-7 very good market makers \(having more would have a negative impact on the price\). Smaller market takers usually just use single bank portals to trade FX. Thanks to this structure bid-ask spread on OTC FX SPOT/FX Forward/FX SWAP is &lt; 0.001% on the most traded pairs.
 
