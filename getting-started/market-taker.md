@@ -14,11 +14,11 @@ Front-end Examples
 
 [https://github.com/AdaptiveConsulting/ReactiveTraderCloud/blob/master/docs/reactive-trader.gif](https://github.com/AdaptiveConsulting/ReactiveTraderCloud/blob/master/docs/reactive-trader.gif)
 
-![](.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 
 

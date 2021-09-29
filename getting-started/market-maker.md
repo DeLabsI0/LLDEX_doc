@@ -12,5 +12,5 @@ Market Maker typescript example can be found on:
 
 Market Maker client can recieve orders from market takers and send transactions to the blockchain for settlement.
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
