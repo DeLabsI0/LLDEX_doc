@@ -18,5 +18,4 @@
 ## Resources
 
 * [ARCH - Background](resources/background.md)
-* [FAQ](resources/faq.md)
 
