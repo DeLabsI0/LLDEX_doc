@@ -32,6 +32,10 @@ To achieve low latency execution, Market Taker has a session key stored in the b
 
 Execution request is a data structure created off-chain \(ex. in the browser\) and signed according to [EIP-712](https://eips.ethereum.org/EIPS/eip-712) by the valid session key.
 
+### Workflow graph
+
+![](.gitbook/assets/image%20%288%29.png)
+
 ### Why we built Low Latency DEX Protocol
 
 Most of the Crypto volumes are one on specialized Centralized Regulated Exchanges \(CEX\) like Binance, Hobi, Coinbase, FTX and [others](https://coinmarketcap.com/rankings/exchanges/). This is in contradiction with the main idea behind cryptocurrencies: DECENTRALIZATION.
