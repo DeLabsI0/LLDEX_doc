@@ -2,7 +2,7 @@
 
 * [What is LLDEX?](README.md)
 * [Demo Video](demo.md)
-* [Theoretical Background](why.md)
+* [Theoretical Background](theory.md)
 
 ## Getting Started
 
