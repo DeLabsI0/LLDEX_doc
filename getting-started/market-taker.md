@@ -14,13 +14,13 @@ For the signature of Execution requests, we recommend the use of [Utils library 
 
 
 
-![](../.gitbook/assets/image%20%2812%29.png)
-
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
+
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ### 🤝 Market Maker Front-end working example
 
@@ -30,5 +30,5 @@ Market Maker typescript example can be found on:
 
 Market Maker is made to quote prices based on quotes coming from Binance, receive orders from market takers and send transactions to the blockchain for settlement.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 

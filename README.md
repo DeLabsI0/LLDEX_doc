@@ -36,6 +36,10 @@ To achieve low latency execution, Market Taker has a session key stored in the b
 
 Execution request is a data structure created off-chain \(ex. in the browser\) and signed according to [EIP-712](https://eips.ethereum.org/EIPS/eip-712) by the valid session key.
 
+
+
+![](.gitbook/assets/image%20%2810%29.png)
+
 ### Workflow graph
 
 ![](.gitbook/assets/image%20%288%29.png)
