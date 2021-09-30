@@ -8,11 +8,19 @@ The goal of this project was to contribute
 
 Market Taker typescript example can be found on:
 
-[https://github.com/DeLabsI0/LLDEX/blob/main/LLDEX-App/src/rt\_client.ts](https://github.com/DeLabsI0/LLDEX/blob/main/LLDEX-App/src/rt_client.ts)
+[https://github.com/DeLabsI0/LLDEX/blob/main/LLDEX-App/src/rt\_client.ts](https://github.com/DeLabsI0/LLDEX/tree/main/LLDEX-Taker-client)
 
 For the signature of Execution requests, we recommend the use of [Utils library for 1inch Limit Orders Protocol](https://github.com/1inch/limit-order-protocol-utils)
 
-![](../.gitbook/assets/image%20%282%29.png)
+
+
+![](../.gitbook/assets/image%20%2812%29.png)
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
+![](../.gitbook/assets/image%20%2811%29.png)
+
+![](../.gitbook/assets/image%20%2814%29.png)
 
 ### 🤝 Market Maker Front-end working example
 
@@ -22,9 +30,5 @@ Market Maker typescript example can be found on:
 
 Market Maker is made to quote prices based on quotes coming from Binance, receive orders from market takers and send transactions to the blockchain for settlement.
 
-![](../.gitbook/assets/image%20%281%29.png)
-
-
-
-
+![](../.gitbook/assets/image%20%2813%29.png)
 
