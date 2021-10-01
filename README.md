@@ -4,6 +4,8 @@ description: lldex.org
 
 # What is LLDEX?
 
+#### **VIDEO WALKTHROUGH** [**https://youtu.be/I5acn8AKZz4**](https://youtu.be/I5acn8AKZz4)
+
 ### Low Latency DEX Protocol
 
 Low Latency DEX is a permissionless protocol to settle crypto trades between 2 counterparties \(Wallet2Wallet trading\).
