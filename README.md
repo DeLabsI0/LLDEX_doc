@@ -4,9 +4,9 @@ description: lldex.org
 
 # What is LLDEX?
 
-#### **VIDEO WALKTHROUGH** [**https://youtu.be/I5acn8AKZz4**](https://youtu.be/I5acn8AKZz4)
+#### **VIDEO WALKTHROUGH**  ****[**https://youtu.be/I5acn8AKZz4**](https://youtu.be/I5acn8AKZz4)
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 ### Low Latency DEX Protocol
 
