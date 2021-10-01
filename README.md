@@ -4,7 +4,7 @@ description: lldex.org
 
 # What is LLDEX?
 
-#### **VIDEO WALKTHROUGH**  ****[**https://youtu.be/I5acn8AKZz4**](https://youtu.be/I5acn8AKZz4)
+#### **VIDEO WALKTHROUGH**  ****[**https://youtu.be/k-k8Yl2mJgE**](https://youtu.be/k-k8Yl2mJgE)\*\*\*\*
 
 ![](.gitbook/assets/image%20%2821%29.png)
 
