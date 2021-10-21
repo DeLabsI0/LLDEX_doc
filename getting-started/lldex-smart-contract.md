@@ -2,9 +2,9 @@
 
 Source Code of the main contract:
 
-[https://github.com/DeLabsI0/LLDEX/blob/main/LLDEX-Core/contracts/LLDEX/LLDEXProtocol.sol](https://github.com/DeLabsI0/LLDEX/blob/main/LLDEX-Core/contracts/LLDEX/LLDEXProtocol.sol)
+[https://github.com/LLDEX/LLDEX\_Core/blob/main/LLDEX-Core/contracts/LLDEX/LLDEXProtocol.sol](https://github.com/LLDEX/LLDEX\_Core/blob/main/LLDEX-Core/contracts/LLDEX/LLDEXProtocol.sol)
 
-LLDEXProtocol implements a settlement layer for quotes send from market maker to market taker. Market makers are responsible for executing pre-signed execution requests send to market takers. 
+LLDEXProtocol implements a settlement layer for quotes send from market maker to market taker. Market makers are responsible for executing pre-signed execution requests send to market takers.&#x20;
 
 On-chain LLDEXProtocol does guarantee that each execution request signed by the market taker is only executed once and transfers are successfully executed for both sides of the trade: maker to taker, and taker to maker.
 
