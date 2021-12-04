@@ -2,17 +2,17 @@
 description: lldex.org
 ---
 
-# What is LLDEX?
+# What is CoinClear?
 
-#### **VIDEO WALKTHROUGH** ** **[**https://youtu.be/k-k8Yl2mJgE**](https://youtu.be/k-k8Yl2mJgE)****
+#### **VIDEO WALKTHROUGH** **** [**https://youtu.be/k-k8Yl2mJgE**](https://youtu.be/k-k8Yl2mJgE)****
 
 ![](<.gitbook/assets/image (21).png>)
 
-### Low Latency DEX Protocol
+### CoinClear Protocol
 
-Low Latency DEX is a permissionless protocol to settle crypto trades between 2 counterparties (Wallet2Wallet trading).
+CoinClear is a permissionless protocol to settle crypto trades between 2 counterparties (Wallet2Wallet trading).
 
-The framework allows counterparties to agree on the price off-chain in a low latency environment and settle the trade on-chain. Thanks to the Last Look workflow market makers have a chance to auto-hedge client flow on other chains (cross-chain) or on low latency centralized exchanges. This makes liquidity independent from TVL. 
+The framework allows counterparties to agree on the price off-chain in a low latency environment and settle the trade on-chain. Thanks to the Last Look workflow market makers have a chance to auto-hedge client flow on other chains (cross-chain) or on low latency centralized exchanges. This makes liquidity independent from TVL.&#x20;
 
 #### 🤝 General workflow
 

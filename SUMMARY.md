@@ -1,7 +1,8 @@
 # Table of contents
 
-* [What is LLDEX?](README.md)
+* [What is CoinClear?](README.md)
 * [Theoretical Background](theory.md)
+* [Regulatory enviroment](regulatory-enviroment.md)
 
 ## Getting Started
 
