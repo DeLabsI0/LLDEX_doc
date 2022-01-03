@@ -8,9 +8,11 @@ CoinClear is a smart contract (similar to a regular ERC20 contract that is creat
 
 Virtual Asset transfers done with the use of CoinClear smart contract can be done between counterparties on the pre-agreed rate between particular assets.
 
-Thanks to the design regulators in different jurisdictions know exactly who transferred the asset to whom and are free to investigate any AML incidents.
+Thanks to the design regulators in different jurisdictions know exactly who transferred the asset to whom and are free to investigate any the origination of funds.
 
 The smart contract is open-sourced under MIT licence. We are not responsible for any damages related to the use of this smart contract.
+
+For any inquiries related to the regulatory framework, please contact us at ...
 
 ## Knowleadge Source:
 
