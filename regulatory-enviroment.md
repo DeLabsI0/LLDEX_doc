@@ -1,8 +1,18 @@
 # Regulatory enviroment
 
+
+
 CoinClear is not CEX
 
 CoinClear is not a DEX&#x20;
+
+but if it is&#x20;
+
+check [https://crypto.com/defi/swap](https://crypto.com/defi/swap)
+
+* "The DeFi Swap protocol (“Protocol”) is a set of smart contracts made available by DeFi Labs (“Crypto.com”) on a voluntary, “as-is” and “as available” basis. By interacting or attempting to interact (in both cases, “interacting”) with the Protocol, you confirm that you understand and agree to these Protocol Terms."
+
+
 
 CoinClear is a smart contract (similar to a regular ERC20 contract that is creating virtual assets) that enables ‘Peer-to-peer’ (P2P) transactions without the use or involvement of a VASP or other obliged entity, such as VA transfers between two unhosted wallets.
 
